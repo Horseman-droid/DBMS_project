@@ -14,7 +14,7 @@
 		<div class="item">
 			<div class="fill" style="background-image:url('images/i1.png');"></div>
 			<div class="carousel-caption">
-				<h2 style="color: black;"> Making Learning Easy</h2>
+				<h2 style="color: white;"> Making Learning Easy</h2>
 			</div>
 		</div>
 		<div class="item active">
